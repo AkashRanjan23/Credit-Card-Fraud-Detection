@@ -1,5 +1,8 @@
 # Credit Card Fraud Detection
 
+<img width="824" alt="image" src="https://github.com/AkashRanjan23/Credit-Card-Fraud-Detection/assets/150953524/01e99e65-5261-4fc5-83e3-9659ee4fad97">
+
+
 ## Problem Statement
 
 The rapid increase in online financial transactions has led to a corresponding rise in fraudulent activities, posing significant risks to both financial institutions and their customers. Detecting fraudulent transactions in real-time is a challenging task due to the complexity and diversity of fraud patterns. Traditional rule-based systems are often inadequate, resulting in high false positive rates, missed frauds, and increased operational costs.
