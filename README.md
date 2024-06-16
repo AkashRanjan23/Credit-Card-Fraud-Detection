@@ -2,6 +2,7 @@
 
 <img width="824" alt="image" src="https://github.com/AkashRanjan23/Credit-Card-Fraud-Detection/assets/150953524/01e99e65-5261-4fc5-83e3-9659ee4fad97">
 
+**Link for the Dataset:** https://drive.google.com/file/d/1yCJbQPOkBqC_Iumd99KAzWKHI7c31Lkr/view?usp=sharing
 
 ## Problem Statement
 
